@@ -26,8 +26,7 @@ const AboutSection = () => (
 
         {/* Description */}
         <p className="text-muted-foreground text-lg leading-relaxed mb-10 max-w-2xl mx-auto">
-          I'm a 2025 B.Tech graduate in Information Technology from Seshadri Rao Gudlavalleru Engineering College. I'm a Java developer fresher passionate about building efficient and scalable applications. I am currently expanding my skills in DevOps, focusing on deployment, automation, and system reliability, with the goal of contributing effectively to modern development teams.
-        </p>
+            Information Technology graduate (2025) and Java developer fresher with solid OOP and problem-solving skills. Focused on building efficient, scalable applications and contributing effectively to software development teams.        </p>
 
         {/* Cards */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 justify-items-center">
