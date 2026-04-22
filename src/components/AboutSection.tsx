@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
-import { Code2, Database, Settings } from "lucide-react";
+import { Code2, Database, Coffee } from "lucide-react";
 
 const highlights = [
   { icon: Code2, label: "Full-Stack Dev" },
   { icon: Database, label: "Database Design" },
-  { icon: Settings, label: "DevOps" },
+  { icon: Coffee, label: "Java Development" },
 ];
 
 const AboutSection = () => (
