@@ -7,15 +7,15 @@ const skillCategories = [
   },
   {
     title: "Frontend",
-    skills: ["HTML", "CSS", "JavaScript"],
+    skills: ["HTML", "CSS"],
   },
   {
     title: "Databases",
-    skills: ["Oracle", "MySQL"],
+    skills: ["MySQL"],
   },
   {
     title: "Tools & Cloud",
-    skills: ["Git", "GitHub","Maven", "Jenkins", "AWS EC2", "VS Code", "Eclipse"],
+    skills: ["Git", "GitHub", "VS Code", "Eclipse"],
   },
 ];
 
