@@ -14,7 +14,7 @@ const skillCategories = [
     skills: ["MySQL"],
   },
   {
-    title: "Tools & Cloud",
+    title: "Tools",
     skills: ["Git", "GitHub", "VS Code", "Eclipse"],
   },
 ];
