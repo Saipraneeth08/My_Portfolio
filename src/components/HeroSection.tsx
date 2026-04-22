@@ -33,9 +33,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg text-muted-foreground max-w-md mb-8">
-            Information Technology graduate & aspiring full-stack developer fresher passionate about building applications and currently learning DevOps to enhance development and deployment skills.
-          </p>
-
+              Information Technology graduate and aspiring full-stack developer fresher, passionate about building efficient and scalable applications.          </p>
           <div className="flex gap-4 justify-center md:justify-start">
             <a href="mailto:saipraneetharava@gmail.com" className="p-3 rounded-lg glass hover:neon-border transition-all text-muted-foreground hover:text-primary">
               <Mail size={20} />
