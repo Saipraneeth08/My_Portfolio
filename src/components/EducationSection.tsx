@@ -25,8 +25,7 @@ const education = [
 const certs = [
   "Java Full Stack Development – Kodnest Technologies",
   "NPTEL — Introduction to IoT (Elite Certificate)",
-  "Data Analytics with Power BI",
-  "TCS iON National Qualifier Test (NQT) – IT, April 2025 (Score: 1952.92/3000 – 65.10%)",
+  "TCS iON National Qualifier Test (NQT) – Score: 65.10% (Apr 2025)",
 ];
 
 const EducationSection = () => (
